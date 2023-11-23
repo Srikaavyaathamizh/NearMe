@@ -66,7 +66,7 @@ Nadarajar temple.html
 </h3>
 <hr size="3" color="red">
 <p align="justify">
-<font face="Georgia" size="s">
+<font face="Georgia" size="5">
 Nadarajar Temple, located in Chidambaram, Tamil Nadu, is dedicated to Lord Shiva in his form as Nataraja,
 the cosmic dancer.Renowned for its architectural grandeur and spiritual significance, the temple is
 a prominent pilgrimage site and a symbol of the timeless dance of creation and destruction, depicted in
@@ -95,9 +95,9 @@ cafe.html
 <h3 align="center">
 <font color="black"><b> Murthy cafe - cafe Centre</b></font>
 </h3>
-<hr size="3" color="voilet">
+<hr size="3" color="violet">
 <p align="justify">
-<font face="Georgia" size="s">
+<font face="Georgia" size="5">
 Murthi Cafe is a popular eatery known for its diverse menu and inviting ambiance,
 offering a delightful culinary experience for locals and visitors alike.
 Located in [specific location], Murthi Cafe is celebrated not only for its delectable
@@ -124,7 +124,7 @@ Thillai Temple.html
 </h3>
 <hr size="3" color="red">
 <p align="justify">
-<font face="Georgia" size="s">
+<font face="Georgia" size="5">
 Thillai Kali Temple is a Hindu Temple located on the outskirts of the town of Chidambaram,
 Cuddalore District Tamil Nadu in India. It was built by Chola King Kopperunjingan who 
 ruled between 1229 and 1278. Thillai Kali' is a deity in anger. This anger was pacified by
@@ -154,7 +154,7 @@ Vandayar Hotel.html
 </h3>
 <hr size="3" color="red">
 <p align="justify">
-<font face="Georgia" size="s">
+<font face="Georgia" size="5">
 Everyone needs a place to lay their weary head. For travellers visiting Chidambaram,
 Vandayar Hotel is an excellent choice for rest and rejuvenation. Well-known for its
 family-friendly environment and proximity to great restaurants, Vandayar Hotel makes
@@ -183,7 +183,7 @@ VAO Office.html
 </h3>
 <hr size="3" color="red">
 <p align="justify">
-<font face="Georgia" size="s">
+<font face="Georgia" size="5">
 The Chidambaram Town became a III rd grade Municipal town asper G.O.Ms NO 33, Finance 
 dt 25-3-1873 and then upgraded as II nd gradeMunicipal town in G.O Ms No 2302 RD & LA dt
 11-4-1949. During the year 1974the town was upgraded as I grade Municipal Town as read in 
