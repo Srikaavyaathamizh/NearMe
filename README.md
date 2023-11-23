@@ -95,7 +95,7 @@ cafe.html
 <h3 align="center">
 <font color="black"><b> Murthy cafe - cafe Centre</b></font>
 </h3>
-<hr size="3" color="voilet">
+<hr size="3" color="violet">
 <p align="justify">
 <font face="Georgia" size="5">
 Murthi Cafe is a popular eatery known for its diverse menu and inviting ambiance,
