@@ -41,11 +41,11 @@ map.html
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
 <map name="MyCity">
-<area shape="rect" coords="562,400,702,107" href="Nadarajar temple.html" title=" Nadarajar Temple">
-<area shape="rect" coords="450,332,558,107" href="cafe.html" title=" Moorthy Cafe">
-<area shape="circle" coords="753,282,86" href="Thillai Temple.html" title="Thillai Temple">
-<area shape="rect" coords="700,500,980,648" href="vandayar hotel.html" title="vandayar hotel">
-<area shape="rect" coords="815,221,1024,309" href="VAO Office.html" title="VAO office">
+<area shape="circle" coords="640,400,40" href="Nadarajar temple.html" title=" Nadarajar Temple">
+<area shape="circle" coords="690,200,30" href="Thillai temple.html" title=" Thillai Temple">
+<area shape="circle" coords="880,430,30" href="Vandayar Hotel.html" title=" Vandayar Hotel">
+<area shape="circle" coords="580,300,20" href="cafe.html" title=" Cafe">
+<area shape="circle" coords="890,190,30" href="VAO Office.html" title=" VAO Office">
 </map>
 </center>
 </body>
